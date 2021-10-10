@@ -29,7 +29,7 @@ Just add me to a channel and post a music to get started.
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Source Code', url='https://github.com/samadii/MusicChannelManagerV2'),
+        InlineKeyboardButton('Developer 👨‍💻', url='t.me/hamidpvr786'),
         ]]
     )
 
